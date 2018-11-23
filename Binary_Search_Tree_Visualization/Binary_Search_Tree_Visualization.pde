@@ -8,7 +8,7 @@ BST<Integer> bst = new BST<Integer>();
 int numElems = 30;
 ArrayList<Integer> elems = shuffle(range(numElems));
 int index = 0;
-double frequency = .05;
+double frequency = .1;
 double counter = frequency;
 
 boolean paused = false;
